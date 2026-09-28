@@ -1,6 +1,6 @@
 # Titre du projet
 
-Ce projet s'inscrit dans le cadre de mon master d'humanités numériques co-acrédité par l'*Université Lyon Lumière 2*, l'*Université Jean Moulin Lyon 3*, l'*École Nationale Supérieure des Sciences de l'Information et des Bibliothèques, et l'École Normale Supérieure de Lyon*. 
+Ce projet s'inscrit dans le cadre de mon master d'humanités numériques co-acrédité par l'*Université Lumière Lyon 2*, l'*Université Jean Moulin Lyon 3*, l'*École Nationale Supérieure des Sciences de l'Information et des Bibliothèques, et l'École Normale Supérieure de Lyon*. 
 
 Nous étions originalement deux sur ce projet, mon ami MJEKU Olti et moi-même. Initialement, il avait pour but de travailler sur les _reviews_ Airbnb. L'objectif était de profiter de la grande taille des bases de données fournies par la plateforme pour nous exercer sur l'utilisation de l'IA dans les analyses statistiques. Cependant, nous avons rapidement été confrontés à un problème d'envergure : la qualité des données. Même les informations les plus basiques, comme l'âge ou le genre des _reviewers_, sont manquantes, rendant impossible toute analyse sociologique rigoureuse. 
 
